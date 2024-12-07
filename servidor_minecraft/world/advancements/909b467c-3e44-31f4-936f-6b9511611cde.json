@@ -9569,9 +9569,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-07 21:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-07 21:10:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2024-12-07 21:12:49 +0000"
+    },
+    "done": true
+  },
   "simple_copper_pipes:recipes/redstone/waxed_exposed_copper_fitting": {
     "criteria": {
       "has_exposed_copper_fitting": "2024-12-07 21:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-07 21:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-07 21:12:50 +0000"
     },
     "done": true
   },
@@ -9587,33 +9617,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
+  "dungeons_arise:find_typhon": {
     "criteria": {
-      "has_logs": "2024-12-07 21:12:50 +0000"
+      "location0": "2024-12-07 21:43:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "has_prismarine_shard": "2024-12-07 21:10:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2024-12-07 21:10:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2024-12-07 21:12:50 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_wood": {
-    "criteria": {
-      "has_cherry_wood": "2024-12-07 21:12:49 +0000"
+      "killed_fire_dragon": "2024-12-07 21:43:15 +0000"
     },
     "done": true
   },

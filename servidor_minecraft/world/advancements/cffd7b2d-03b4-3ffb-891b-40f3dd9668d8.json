@@ -134,7 +134,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-19 18:53:18 +0000",
+      "minecraft:deep_ocean": "2024-12-07 21:45:14 +0000",
       "minecraft:cherry_grove": "2024-11-23 18:58:56 +0000",
+      "minecraft:sunflower_plains": "2024-12-07 21:40:16 +0000",
       "minecraft:birch_forest": "2024-12-07 21:22:20 +0000",
       "minecraft:windswept_hills": "2024-11-19 18:53:08 +0000",
       "minecraft:beach": "2024-11-19 18:53:13 +0000",
@@ -144,6 +146,7 @@
       "minecraft:forest": "2024-11-19 21:10:06 +0000",
       "minecraft:ocean": "2024-11-22 16:52:22 +0000",
       "minecraft:windswept_savanna": "2024-11-19 18:52:50 +0000",
+      "minecraft:flower_forest": "2024-12-07 21:40:46 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-22 16:49:28 +0000",
       "minecraft:meadow": "2024-11-23 19:01:16 +0000",
       "minecraft:savanna": "2024-11-26 18:43:07 +0000",
@@ -842,6 +845,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-11-22 19:47:06 +0000",
+      "cooked_beef": "2024-12-07 21:45:34 +0000",
       "apple": "2024-11-19 19:02:50 +0000",
       "golden_apple": "2024-11-19 21:11:29 +0000",
       "bread": "2024-11-22 18:33:47 +0000",
@@ -6664,6 +6668,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-07 21:47:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-12-07 21:43:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
       "has_item": "2024-12-07 20:52:24 +0000"
@@ -6742,9 +6758,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-07 21:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-07 21:47:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-07 20:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-07 21:47:43 +0000"
     },
     "done": true
   },
