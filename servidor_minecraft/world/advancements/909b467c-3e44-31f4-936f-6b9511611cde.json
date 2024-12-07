@@ -1043,6 +1043,7 @@
       "baked_potato": "2024-11-22 01:44:38 +0000",
       "porkchop": "2024-11-26 21:04:51 +0000",
       "apple": "2024-11-19 03:04:53 +0000",
+      "cooked_cod": "2024-12-07 21:15:55 +0000",
       "mutton": "2024-11-19 06:25:09 +0000",
       "bread": "2024-11-19 05:32:44 +0000",
       "golden_apple": "2024-11-26 21:36:15 +0000",
@@ -4760,6 +4761,7 @@
       "minecraft:pillager": "2024-11-19 04:25:39 +0000",
       "minecraft:blaze": "2024-11-22 05:50:44 +0000",
       "minecraft:skeleton": "2024-11-19 04:40:29 +0000",
+      "minecraft:guardian": "2024-12-07 21:10:07 +0000",
       "minecraft:vindicator": "2024-11-19 04:25:36 +0000",
       "minecraft:magma_cube": "2024-11-22 05:17:15 +0000",
       "minecraft:spider": "2024-11-19 18:52:32 +0000",
@@ -9558,6 +9560,60 @@
   "iceandfire:recipes/misc/myrmex_resin_desert": {
     "criteria": {
       "has_item": "2024-12-07 21:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-07 21:10:22 +0000"
+    },
+    "done": true
+  },
+  "simple_copper_pipes:recipes/redstone/waxed_exposed_copper_fitting": {
+    "criteria": {
+      "has_exposed_copper_fitting": "2024-12-07 21:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-07 21:13:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2024-12-07 21:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-07 21:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-07 21:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-07 21:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-07 21:12:50 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2024-12-07 21:12:49 +0000"
     },
     "done": true
   },

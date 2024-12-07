@@ -11800,7 +11800,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2024-11-26 04:18:42 +0000"
+      "phantom": "2024-11-26 04:18:42 +0000",
+      "warden": "2024-12-07 21:12:03 +0000"
     },
     "done": false
   },
@@ -12299,6 +12300,12 @@
   "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
     "criteria": {
       "has_item": "2024-11-26 22:45:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-12-07 21:12:03 +0000"
     },
     "done": true
   },
