@@ -684,6 +684,7 @@
       "minecraft:taiga": "2024-11-22 22:21:41 +0000",
       "minecraft:frozen_river": "2024-11-22 22:32:16 +0000",
       "minecraft:birch_forest": "2024-11-24 23:45:45 +0000",
+      "minecraft:windswept_hills": "2024-12-07 21:00:46 +0000",
       "minecraft:bamboo_jungle": "2024-11-26 23:41:37 +0000",
       "minecraft:beach": "2024-11-22 22:15:49 +0000",
       "minecraft:sparse_jungle": "2024-11-24 22:02:43 +0000",
@@ -691,12 +692,16 @@
       "minecraft:lukewarm_ocean": "2024-11-26 23:43:31 +0000",
       "minecraft:snowy_plains": "2024-12-01 03:20:21 +0000",
       "minecraft:snowy_taiga": "2024-11-26 03:24:39 +0000",
+      "minecraft:swamp": "2024-12-07 20:57:00 +0000",
       "minecraft:cold_ocean": "2024-11-22 22:42:15 +0000",
       "minecraft:forest": "2024-11-22 22:32:55 +0000",
       "minecraft:jungle": "2024-11-24 22:04:00 +0000",
       "minecraft:ocean": "2024-11-26 03:21:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-11-22 22:16:53 +0000",
-      "minecraft:deep_dark": "2024-11-22 22:46:37 +0000"
+      "minecraft:windswept_savanna": "2024-12-07 21:00:57 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-07 21:04:04 +0000",
+      "minecraft:deep_dark": "2024-11-22 22:46:37 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-07 21:00:49 +0000"
     },
     "done": false
   },
@@ -9392,12 +9397,6 @@
       "has_prismarine_shard": "2024-12-02 20:41:23 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-07 20:55:01 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
