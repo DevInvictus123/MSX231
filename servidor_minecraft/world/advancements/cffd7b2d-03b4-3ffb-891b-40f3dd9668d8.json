@@ -135,6 +135,7 @@
     "criteria": {
       "minecraft:taiga": "2024-11-19 18:53:18 +0000",
       "minecraft:cherry_grove": "2024-11-23 18:58:56 +0000",
+      "minecraft:birch_forest": "2024-12-07 21:22:20 +0000",
       "minecraft:windswept_hills": "2024-11-19 18:53:08 +0000",
       "minecraft:beach": "2024-11-19 18:53:13 +0000",
       "minecraft:river": "2024-11-22 16:41:52 +0000",
@@ -2158,6 +2159,7 @@
       "minecraft:cave_spider": "2024-11-26 19:53:26 +0000",
       "minecraft:piglin": "2024-11-22 18:47:43 +0000",
       "minecraft:stray": "2024-11-26 19:46:28 +0000",
+      "minecraft:enderman": "2024-12-07 21:22:13 +0000",
       "minecraft:zombie": "2024-11-19 20:02:40 +0000",
       "minecraft:drowned": "2024-12-07 20:53:26 +0000"
     },
@@ -6662,78 +6664,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 21:18:53 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
       "has_item": "2024-12-07 20:52:24 +0000"
@@ -6845,6 +6775,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
     "criteria": {
       "has_sea_serpent_scales_teal": "2024-12-07 20:52:24 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2024-12-07 21:22:02 +0000"
     },
     "done": true
   },
