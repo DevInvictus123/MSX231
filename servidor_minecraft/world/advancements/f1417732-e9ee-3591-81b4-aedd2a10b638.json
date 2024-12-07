@@ -9869,78 +9869,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "incendium:quartz_flats/sanctum/root": {
     "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-11-26 23:44:19 +0000",
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
+      "requirement": "2024-11-26 23:09:09 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-11-26 23:44:19 +0000"
-    },
-    "done": false
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
@@ -9948,9 +9881,9 @@
     },
     "done": true
   },
-  "incendium:quartz_flats/sanctum/root": {
+  "supplementaries:recipes/slice_map": {
     "criteria": {
-      "requirement": "2024-11-26 23:09:09 +0000"
+      "has_map": "2024-12-07 20:35:14 +0000"
     },
     "done": true
   },
