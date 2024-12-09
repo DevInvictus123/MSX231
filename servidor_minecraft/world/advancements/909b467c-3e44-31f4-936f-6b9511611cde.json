@@ -9676,9 +9676,10 @@
   },
   "soulsweapons:draugr_boss": {
     "criteria": {
-      "soulsweapons:draugr_boss": "2024-12-07 23:24:59 +0000"
+      "soulsweapons:draugr_boss": "2024-12-07 23:24:59 +0000",
+      "soulsweapons:night_shade": "2024-12-09 22:58:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "farm_and_charm:recipes/oat_ball": {
     "criteria": {
@@ -9842,6 +9843,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/darkmoon_longbow": {
+    "criteria": {
+      "has_item": "2024-12-09 22:58:31 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/master_sword": {
     "criteria": {
       "has_lord_soul": "2024-12-09 22:40:17 +0000"
@@ -9953,6 +9960,12 @@
   "soulsweapons:recipes/combat/freyr_sword": {
     "criteria": {
       "has_item": "2024-12-09 22:40:17 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/draugr": {
+    "criteria": {
+      "has_item": "2024-12-09 22:58:31 +0000"
     },
     "done": true
   },
