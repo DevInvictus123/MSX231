@@ -4201,3 +4201,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:25:22] [Server thread/INFO]: Chavez is incapacitated!
 [22:25:42] [Server thread/INFO]: death.attack.fall and bled out
 [22:26:14] [Server thread/INFO]: Chavez claimed a grave belonging to Chavez at -4109, 63, 4036, minecraft:overworld
+[22:35:07] [Server thread/INFO]: Chavez is incapacitated!
+[22:35:18] [Server thread/INFO]: death.attack.fall and bled out
+[22:35:29] [Server thread/INFO]: Chavez claimed a grave belonging to Chavez at -4160, 63, 4119, minecraft:overworld
+[22:36:02] [Server thread/WARN]: Gregas moved too quickly! 0.0,18.384712806849322,0.0
+[22:36:26] [Server thread/WARN]: Gregas moved too quickly! 0.02985763420110743,-12.380851555999286,0.004549422369564127
+[22:36:48] [Server thread/INFO]: Chavez is incapacitated!
+[22:37:02] [Server thread/INFO]: Chavez has been revived!
