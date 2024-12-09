@@ -9799,5 +9799,35 @@
     },
     "done": true
   },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2024-12-09 22:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-09 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2024-12-09 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "corrupted_enderman": "2024-12-09 22:18:17 +0000"
+    },
+    "done": false
+  },
+  "1_splatus:ultris/enderkill": {
+    "criteria": {
+      "c1": "2024-12-09 22:18:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
