@@ -7310,6 +7310,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
+    "criteria": {
+      "has_item": "2024-12-09 22:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-09 22:39:52 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/birch_chair": {
     "criteria": {
       "has_birch_planks": "2024-12-09 22:24:46 +0000"
@@ -7319,6 +7331,12 @@
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2024-12-09 22:24:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2024-12-09 22:40:03 +0000"
     },
     "done": true
   },
@@ -7340,9 +7358,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-09 22:38:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
+    "criteria": {
+      "has_item": "2024-12-09 22:38:32 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/birch_drawer": {
     "criteria": {
       "has_birch_planks": "2024-12-09 22:24:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2024-12-09 22:38:32 +0000"
     },
     "done": true
   },
@@ -7355,6 +7391,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-09 22:24:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-09 22:38:32 +0000"
     },
     "done": true
   },
@@ -7397,6 +7439,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-09 22:24:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
+    "criteria": {
+      "has_dragonsteel_fire_ingot": "2024-12-09 22:38:32 +0000"
     },
     "done": true
   },
@@ -7460,9 +7508,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-09 22:40:03 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/onion_bag": {
     "criteria": {
       "has_onion": "2024-12-09 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
+    "criteria": {
+      "has_item": "2024-12-09 22:38:32 +0000"
     },
     "done": true
   },
@@ -7508,6 +7568,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-09 22:42:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2024-12-09 22:24:46 +0000"
@@ -7523,6 +7589,12 @@
   "candlelight:recipes/oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-09 22:24:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
+    "criteria": {
+      "has_item": "2024-12-09 22:38:32 +0000"
     },
     "done": true
   },
@@ -7544,9 +7616,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-09 22:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-09 22:39:52 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/oak_cabinet": {
     "criteria": {
       "has_oak_planks": "2024-12-09 22:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-09 22:39:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_sword": {
+    "criteria": {
+      "has_item": "2024-12-09 22:38:32 +0000"
     },
     "done": true
   },
@@ -7559,6 +7655,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-09 22:24:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-09 22:42:16 +0000"
     },
     "done": true
   },
@@ -7583,6 +7685,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-09 22:24:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-09 22:38:32 +0000"
     },
     "done": true
   },
@@ -7631,6 +7739,12 @@
   "bakery:recipes/brick_counter": {
     "criteria": {
       "has_oak_planks": "2024-12-09 22:24:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-09 22:38:32 +0000"
     },
     "done": true
   },

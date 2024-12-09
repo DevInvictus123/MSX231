@@ -4208,3 +4208,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:36:26] [Server thread/WARN]: Gregas moved too quickly! 0.02985763420110743,-12.380851555999286,0.004549422369564127
 [22:36:48] [Server thread/INFO]: Chavez is incapacitated!
 [22:37:02] [Server thread/INFO]: Chavez has been revived!
+[22:38:32] [Server thread/INFO]: chat.type.advancement.task
+[22:40:17] [Server thread/INFO]: chat.type.advancement.challenge
+[22:43:33] [Server thread/INFO]: Chavez is incapacitated!
+[22:43:54] [Server thread/INFO]: death.attack.fall and bled out
+[22:43:56] [Server thread/INFO]: Chavez claimed a grave belonging to Chavez at -4111, 65, 4134, minecraft:overworld
+[22:45:39] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-129, y=74, z=-118}
+[22:45:39] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-129, y=74, z=-116}
+[22:45:39] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-128, y=74, z=-118}
+[22:46:26] [Server thread/WARN]: Gregas moved too quickly! -5.658563644793503,8.047925923667862,3.539719583067381
